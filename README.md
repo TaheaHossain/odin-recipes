@@ -1,1 +1,1 @@
-This project will display recipes and is a basic recipe website // how to write a README.md 
+This project showcases a basic recipe website which showcases 3 differnt recipes lasgana, scrambled eggs, and homemade potato chips which is all written in html. 
