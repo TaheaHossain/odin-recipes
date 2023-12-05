@@ -1,1 +1,1 @@
-# odin-recipes
+This project will display recipes and is a basic recipe website // how to write a README.md 
