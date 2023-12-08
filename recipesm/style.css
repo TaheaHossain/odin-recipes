@@ -1,0 +1,48 @@
+h1, .one{
+    color: rgb(124, 81, 65);
+    font-style: unset;
+    font-family: 'Brush Script MT';
+    font-size: 70px;
+    text-align: center;
+    border-color: rgb(143, 109, 65);
+    border-style: dotted;
+    
+}
+
+img{
+    
+    border-radius: 10%;
+    border-color: black;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+p{
+    font-family: 'Brush Script MT';
+    font-size: 30px;
+    border-style: dotted;
+    border-color: rgb(142, 101, 49);
+    color: rgb(143, 109, 65);
+
+}
+
+h2,h3, h4, a{
+    font-family: 'Brush Script MT';
+    font-size: 30px;
+    color:rgb(160, 106, 86);
+    text-align: center;
+
+}
+
+ol,ul{
+    font-family: 'Brush Script MT';
+    font-size: 30px;
+    color:rgb(160, 106, 86);
+}
+
+h3,h2{
+   font-size:50px;
+   color: rgb(129, 83, 66);
+}
